@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+twodudes
 
 ## Members
 
-- _nobody has signed on yet_
+- Raian Serneabad
