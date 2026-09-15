@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+Team_KR
 
 ## Members
 
-- _nobody has signed on yet_
+- Kyle
