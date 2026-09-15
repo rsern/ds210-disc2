@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-twodudes
+Team_KR
 
 ## Members
 
-- Raian Serneabad
+- Kyle
